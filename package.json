@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://louisdtb.github.io/wikipedia-country-map",
+  "homepage": "https://louisdtb.github.io/wikipedia-country-map/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
