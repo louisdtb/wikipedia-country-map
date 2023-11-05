@@ -2,12 +2,12 @@
   <h1>Wikipedia country map</h1>
 </div>
 
-A simple map for exploring world history.
+A simple map for exploring countries by history, politics, or geopgraphy.
 
 ## Features
 
-- Click on a country to read its history
-- Hover on a country to see its name
+- Click on a country to explore chosen topic
+- Change topics by clicking the pencil icon
 
 ## Changelog
 
