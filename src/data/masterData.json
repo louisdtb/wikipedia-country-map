@@ -1,0 +1,1210 @@
+[
+  {
+    "text": "Afghanistan",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Afghanistan",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Afghanistan",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Afghanistan"
+  },
+  {
+    "text": "Albania",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Albania",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Albania",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Albania"
+  },
+  {
+    "text": "Algeria",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Algeria",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Algeria",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Algeria"
+  },
+  {
+    "text": "Andorra",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Andorra",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Andorra",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Andorra"
+  },
+  {
+    "text": "Angola",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Angola",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Angola",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Angola"
+  },
+  {
+    "text": "Antigua and Barbuda",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Antigua_and_Barbuda",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Antigua_and_Barbuda"
+  },
+  {
+    "text": "Argentina",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Argentina",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Argentina",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Argentina"
+  },
+  {
+    "text": "Armenia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Armenia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Armenia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Armenia"
+  },
+  {
+    "text": "Australia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Australia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Australia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Australia"
+  },
+  {
+    "text": "Austria",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Austria",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Austria",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Austria"
+  },
+  {
+    "text": "Azerbaijan",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Azerbaijan",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Azerbaijan",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Azerbaijan"
+  },
+  {
+    "text": "the Bahamas",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_the_Bahamas",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_the_Bahamas",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_the_Bahamas"
+  },
+  {
+    "text": "Bahrain",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Bahrain",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Bahrain",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Bahrain"
+  },
+  {
+    "text": "Bangladesh",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Bangladesh",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Bangladesh",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Bangladesh"
+  },
+  {
+    "text": "Barbados",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Barbados",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Barbados",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Barbados"
+  },
+  {
+    "text": "Belarus",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Belarus",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Belarus",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Belarus"
+  },
+  {
+    "text": "Belgium",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Belgium",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Belgium",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Belgium"
+  },
+  {
+    "text": "Belize",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Belize",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Belize",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Belize"
+  },
+  {
+    "text": "Benin",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Benin",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Benin",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Benin"
+  },
+  {
+    "text": "Bhutan",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Bhutan",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Bhutan",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Bhutan"
+  },
+  {
+    "text": "Bolivia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Bolivia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Bolivia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Bolivia"
+  },
+  {
+    "text": "Bosnia and Herzegovina",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Bosnia_and_Herzegovina",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Bosnia_and_Herzegovina",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Bosnia_and_Herzegovina"
+  },
+  {
+    "text": "Botswana",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Botswana",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Botswana",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Botswana"
+  },
+  {
+    "text": "Brazil",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Brazil",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Brazil",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Brazil"
+  },
+  {
+    "text": "Brunei",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Brunei",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Brunei",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Brunei"
+  },
+  {
+    "text": "Bulgaria",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Bulgaria",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Bulgaria",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Bulgaria"
+  },
+  {
+    "text": "Burkina Faso",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Burkina_Faso",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Burkina_Faso",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Burkina_Faso"
+  },
+  {
+    "text": "Burundi",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Burundi",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Burundi",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Burundi"
+  },
+  {
+    "text": "Cambodia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Cambodia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Cambodia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Cambodia"
+  },
+  {
+    "text": "Cameroon",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Cameroon",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Cameroon",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Cameroon"
+  },
+  {
+    "text": "Canada",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Canada",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Canada",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Canada"
+  },
+  {
+    "text": "Cape Verde",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Cape_Verde",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Cape_Verde",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Cape_Verde"
+  },
+  {
+    "text": "the Central African Republic",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_the_Central_African_Republic",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_the_Central_African_Republic",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_the_Central_African_Republic"
+  },
+  {
+    "text": "Chad",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Chad",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Chad",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Chad"
+  },
+  {
+    "text": "Chile",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Chile",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Chile",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Chile"
+  },
+  {
+    "text": "China",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_China",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_China",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_China"
+  },
+  {
+    "text": "Colombia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Colombia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Colombia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Colombia"
+  },
+  {
+    "text": "the Comoros",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_the_Comoros",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_the_Comoros",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_the_Comoros"
+  },
+  {
+    "text": "the Democratic Republic of the Congo",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_the_Democratic_Republic_of_the_Congo",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_the_Democratic_Republic_of_the_Congo",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_the_Democratic_Republic_of_the_Congo"
+  },
+  {
+    "text": "the Republic of the Congo",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_the_Republic_of_the_Congo",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_the_Republic_of_the_Congo",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_the_Republic_of_the_Congo"
+  },
+  {
+    "text": "Costa Rica",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Costa_Rica",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Costa_Rica",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Costa_Rica"
+  },
+  {
+    "text": "Croatia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Croatia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Croatia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Croatia"
+  },
+  {
+    "text": "Cuba",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Cuba",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Cuba",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Cuba"
+  },
+  {
+    "text": "Cyprus",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Cyprus",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Cyprus",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Cyprus"
+  },
+  {
+    "text": "the Czech Republic",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_the_Czech_Republic",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_the_Czech_Republic",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_the_Czech_Republic"
+  },
+  {
+    "text": "Denmark",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Denmark",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Denmark",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Denmark"
+  },
+  {
+    "text": "Djibouti",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Djibouti",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Djibouti",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Djibouti"
+  },
+  {
+    "text": "Dominica",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Dominica",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Dominica",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Dominica"
+  },
+  {
+    "text": "the Dominican Republic",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_the_Dominican_Republic",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_the_Dominican_Republic",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_the_Dominican_Republic"
+  },
+  {
+    "text": "East Timor",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_East_Timor",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_East_Timor",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_East_Timor"
+  },
+  {
+    "text": "Ecuador",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Ecuador",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Ecuador",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Ecuador"
+  },
+  {
+    "text": "Egypt",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Egypt",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Egypt",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Egypt"
+  },
+  {
+    "text": "El Salvador",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_El_Salvador",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_El_Salvador",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_El_Salvador"
+  },
+  {
+    "text": "Equatorial Guinea",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Equatorial_Guinea",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Equatorial_Guinea",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Equatorial_Guinea"
+  },
+  {
+    "text": "Eritrea",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Eritrea",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Eritrea",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Eritrea"
+  },
+  {
+    "text": "Estonia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Estonia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Estonia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Estonia"
+  },
+  {
+    "text": "Eswatini",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Eswatini",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Eswatini",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Eswatini"
+  },
+  {
+    "text": "Ethiopia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Ethiopia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Ethiopia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Ethiopia"
+  },
+  {
+    "text": "the Falkland Islands",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_the_Falkland_Islands"
+  },
+  {
+    "text": "Fiji",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Fiji",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Fiji",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Fiji"
+  },
+  {
+    "text": "Finland",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Finland",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Finland",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Finland"
+  },
+  {
+    "text": "France",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_France",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_France",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_France"
+  },
+  {
+    "text": "Gabon",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Gabon",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Gabon",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Gabon"
+  },
+  {
+    "text": "the Gambia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_the_Gambia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_the_Gambia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_the_Gambia"
+  },
+  {
+    "text": "Georgia (country)",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Georgia_(country)",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Georgia_(country)",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Georgia_(country)"
+  },
+  {
+    "text": "Germany",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Germany",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Germany",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Germany"
+  },
+  {
+    "text": "Ghana",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Ghana",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Ghana",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Ghana"
+  },
+  {
+    "text": "Greece",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Greece",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Greece",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Greece"
+  },
+  {
+    "text": "Grenada",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Grenada",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Grenada",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Grenada"
+  },
+  {
+    "text": "Guatemala",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Guatemala",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Guatemala",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Guatemala"
+  },
+  {
+    "text": "Guinea",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Guinea",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Guinea",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Guinea"
+  },
+  {
+    "text": "Guinea-Bissau",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Guinea-Bissau",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Guinea-Bissau",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Guinea-Bissau"
+  },
+  {
+    "text": "Guyana",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Guyana",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Guyana",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Guyana"
+  },
+  {
+    "text": "Haiti",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Haiti",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Haiti",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Haiti"
+  },
+  {
+    "text": "Abkhazia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Abkhazia"
+  },
+  {
+    "text": "Honduras",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Honduras",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Honduras",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Honduras"
+  },
+  {
+    "text": "Hungary",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Hungary",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Hungary",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Hungary"
+  },
+  {
+    "text": "Iceland",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Iceland",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Iceland",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Iceland"
+  },
+  {
+    "text": "India",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_India",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_India",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_India"
+  },
+  {
+    "text": "Indonesia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Indonesia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Indonesia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Indonesia"
+  },
+  {
+    "text": "Iran",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Iran",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Iran",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Iran"
+  },
+  {
+    "text": "Iraq",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Iraq",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Iraq",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Iraq"
+  },
+  {
+    "text": "Ireland",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Ireland",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Ireland"
+  },
+  {
+    "text": "the Republic of Ireland",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_the_Republic_of_Ireland",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_the_Republic_of_Ireland",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_the_Republic_of_Ireland"
+  },
+  {
+    "text": "Israel",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Israel",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Israel",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Israel"
+  },
+  {
+    "text": "Italy",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Italy",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Italy",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Italy"
+  },
+  {
+    "text": "Ivory Coast",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Ivory_Coast",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Ivory_Coast",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Ivory_Coast"
+  },
+  {
+    "text": "Jamaica",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Jamaica",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Jamaica",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Jamaica"
+  },
+  {
+    "text": "Japan",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Japan",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Japan"
+  },
+  {
+    "text": "Jordan",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Jordan",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Jordan",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Jordan"
+  },
+  {
+    "text": "Kazakhstan",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Kazakhstan",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Kazakhstan",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Kazakhstan"
+  },
+  {
+    "text": "Kenya",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Kenya",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Kenya",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Kenya"
+  },
+  {
+    "text": "Kiribati",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Kiribati",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Kiribati",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Kiribati"
+  },
+  {
+    "text": "the Republic of Kosovo",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_the_Republic_of_Kosovo",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Kosovo"
+  },
+  {
+    "text": "Kuwait",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Kuwait",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Kuwait",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Kuwait"
+  },
+  {
+    "text": "Kyrgyzstan",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Kyrgyzstan",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Kyrgyzstan",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Kyrgyzstan"
+  },
+  {
+    "text": "Laos",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Laos",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Laos",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Laos"
+  },
+  {
+    "text": "Latvia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Latvia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Latvia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Latvia"
+  },
+  {
+    "text": "Lebanon",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Lebanon",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Lebanon",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Lebanon"
+  },
+  {
+    "text": "Lesotho",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Lesotho",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Lesotho",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Lesotho"
+  },
+  {
+    "text": "Liberia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Liberia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Liberia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Liberia"
+  },
+  {
+    "text": "Libya",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Libya",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Libya",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Libya"
+  },
+  {
+    "text": "Liechtenstein",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Liechtenstein",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Liechtenstein",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Liechtenstein"
+  },
+  {
+    "text": "Lithuania",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Lithuania",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Lithuania",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Lithuania"
+  },
+  {
+    "text": "Luxembourg",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Luxembourg",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Luxembourg",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Luxembourg"
+  },
+  {
+    "text": "Madagascar",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Madagascar",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Madagascar",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Madagascar"
+  },
+  {
+    "text": "Malawi",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Malawi",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Malawi",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Malawi"
+  },
+  {
+    "text": "Malaysia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Malaysia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Malaysia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Malaysia"
+  },
+  {
+    "text": "the Maldives",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_the_Maldives",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_the_Maldives",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_the_Maldives"
+  },
+  {
+    "text": "Mali",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Mali",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Mali",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Mali"
+  },
+  {
+    "text": "Malta",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Malta",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Malta",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Malta"
+  },
+  {
+    "text": "the Marshall Islands",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_the_Marshall_Islands",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_the_Marshall_Islands",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_the_Marshall_Islands"
+  },
+  {
+    "text": "Mauritania",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Mauritania",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Mauritania",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Mauritania"
+  },
+  {
+    "text": "Mauritius",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Mauritius",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Mauritius",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Mauritius"
+  },
+  {
+    "text": "Mexico",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Mexico",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Mexico",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Mexico"
+  },
+  {
+    "text": "the Federated States of Micronesia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_the_Federated_States_of_Micronesia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_the_Federated_States_of_Micronesia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_the_Federated_States_of_Micronesia"
+  },
+  {
+    "text": "Moldova",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Moldova",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Moldova",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Moldova"
+  },
+  {
+    "text": "Monaco",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Monaco",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Monaco",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Monaco"
+  },
+  {
+    "text": "Mongolia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Mongolia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Mongolia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Mongolia"
+  },
+  {
+    "text": "Montenegro",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Montenegro",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Montenegro",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Montenegro"
+  },
+  {
+    "text": "Morocco",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Morocco",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Morocco",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Morocco"
+  },
+  {
+    "text": "Mozambique",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Mozambique",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Mozambique",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Mozambique"
+  },
+  {
+    "text": "Myanmar",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Myanmar",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Myanmar",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Myanmar"
+  },
+  {
+    "text": "Namibia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Namibia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Namibia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Namibia"
+  },
+  {
+    "text": "Nauru",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Nauru",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Nauru",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Nauru"
+  },
+  {
+    "text": "Nepal",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Nepal",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Nepal",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Nepal"
+  },
+  {
+    "text": "the Netherlands",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_the_Netherlands",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_the_Netherlands",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_the_Netherlands"
+  },
+  {
+    "text": "New Zealand",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_New_Zealand",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_New_Zealand",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_New_Zealand"
+  },
+  {
+    "text": "Nicaragua",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Nicaragua",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Nicaragua",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Nicaragua"
+  },
+  {
+    "text": "Niger",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Niger",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Niger",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Niger"
+  },
+  {
+    "text": "Nigeria",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Nigeria",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Nigeria",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Nigeria"
+  },
+  {
+    "text": "North Korea",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_North_Korea",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_North_Korea",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_North_Korea"
+  },
+  {
+    "text": "North Macedonia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_North_Macedonia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_North_Macedonia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_North_Macedonia"
+  },
+  {
+    "text": "Northern Cyprus",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Northern_Cyprus"
+  },
+  {
+    "text": "Norway",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Norway",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Norway",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Norway"
+  },
+  {
+    "text": "Oman",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Oman",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Oman",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Oman"
+  },
+  {
+    "text": "Pakistan",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Pakistan",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Pakistan",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Pakistan"
+  },
+  {
+    "text": "Palau",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Palau",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Palau",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Palau"
+  },
+  {
+    "text": "the State of Palestine",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_the_State_of_Palestine"
+  },
+  {
+    "text": "Panama",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Panama",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Panama",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Panama"
+  },
+  {
+    "text": "Papua New Guinea",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Papua_New_Guinea",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Papua_New_Guinea",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Papua_New_Guinea"
+  },
+  {
+    "text": "Paraguay",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Paraguay",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Paraguay",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Paraguay"
+  },
+  {
+    "text": "Peru",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Peru",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Peru",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Peru"
+  },
+  {
+    "text": "the Philippines",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_the_Philippines",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_the_Philippines",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_the_Philippines"
+  },
+  {
+    "text": "Poland",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Poland",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Poland",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Poland"
+  },
+  {
+    "text": "Portugal",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Portugal",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Portugal",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Portugal"
+  },
+  {
+    "text": "Qatar",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Qatar",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Qatar",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Qatar"
+  },
+  {
+    "text": "Romania",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Romania",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Romania",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Romania"
+  },
+  {
+    "text": "Russia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Russia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Russia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Russia"
+  },
+  {
+    "text": "Rwanda",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Rwanda",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Rwanda",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Rwanda"
+  },
+  {
+    "text": "Saint Kitts and Nevis",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Saint_Kitts_and_Nevis",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Saint_Kitts_and_Nevis",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Saint_Kitts_and_Nevis"
+  },
+  {
+    "text": "Saint Lucia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Saint_Lucia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Saint_Lucia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Saint_Lucia"
+  },
+  {
+    "text": "Saint Vincent and the Grenadines",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Saint_Vincent_and_the_Grenadines",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Saint_Vincent_and_the_Grenadines",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Saint_Vincent_and_the_Grenadines"
+  },
+  {
+    "text": "Samoa",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Samoa",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Samoa",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Samoa"
+  },
+  {
+    "text": "San Marino",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_San_Marino",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_San_Marino",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_San_Marino"
+  },
+  {
+    "text": "São Tomé and Príncipe",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe"
+  },
+  {
+    "text": "Saudi Arabia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Saudi_Arabia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Saudi_Arabia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Saudi_Arabia"
+  },
+  {
+    "text": "Senegal",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Senegal",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Senegal",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Senegal"
+  },
+  {
+    "text": "Serbia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Serbia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Serbia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Serbia"
+  },
+  {
+    "text": "Seychelles",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Seychelles",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Seychelles",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Seychelles"
+  },
+  {
+    "text": "Sierra Leone",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Sierra_Leone",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Sierra_Leone",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Sierra_Leone"
+  },
+  {
+    "text": "Singapore",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Singapore",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Singapore",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Singapore"
+  },
+  {
+    "text": "Slovakia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Slovakia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Slovakia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Slovakia"
+  },
+  {
+    "text": "Slovenia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Slovenia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Slovenia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Slovenia"
+  },
+  {
+    "text": "the Solomon Islands",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_the_Solomon_Islands",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_the_Solomon_Islands",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_the_Solomon_Islands"
+  },
+  {
+    "text": "Somalia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Somalia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Somalia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Somalia"
+  },
+  {
+    "text": "Somaliland",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Somaliland"
+  },
+  {
+    "text": "South Africa",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_South_Africa",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_South_Africa",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_South_Africa"
+  },
+  {
+    "text": "South Korea",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_South_Korea",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_South_Korea",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_South_Korea"
+  },
+  {
+    "text": "South Ossetia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_South_Ossetia"
+  },
+  {
+    "text": "South Sudan",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_South_Sudan",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_South_Sudan",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_South_Sudan"
+  },
+  {
+    "text": "Spain",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Spain",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Spain",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Spain"
+  },
+  {
+    "text": "Sri Lanka",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Sri_Lanka",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Sri_Lanka",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Sri_Lanka"
+  },
+  {
+    "text": "Sudan",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Sudan",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Sudan",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Sudan"
+  },
+  {
+    "text": "Suriname",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Suriname",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Suriname",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Suriname"
+  },
+  {
+    "text": "Sweden",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Sweden",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Sweden",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Sweden"
+  },
+  {
+    "text": "Switzerland",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Switzerland",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Switzerland",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Switzerland"
+  },
+  {
+    "text": "Syria",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Syria",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Syria",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Syria"
+  },
+  {
+    "text": "Taiwan",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Taiwan",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Taiwan",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Taiwan"
+  },
+  {
+    "text": "Tajikistan",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Tajikistan",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Tajikistan",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Tajikistan"
+  },
+  {
+    "text": "Tanzania",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Tanzania",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Tanzania",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Tanzania"
+  },
+  {
+    "text": "Thailand",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Thailand",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Thailand",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Thailand"
+  },
+  {
+    "text": "Togo",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Togo",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Togo",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Togo"
+  },
+  {
+    "text": "Tonga",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Tonga",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Tonga",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Tonga"
+  },
+  {
+    "text": "Trinidad and Tobago",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Trinidad_and_Tobago",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Trinidad_and_Tobago",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Trinidad_and_Tobago"
+  },
+  {
+    "text": "Tunisia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Tunisia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Tunisia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Tunisia"
+  },
+  {
+    "text": "Turkey",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Turkey",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Turkey",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Turkey"
+  },
+  {
+    "text": "Turkmenistan",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Turkmenistan",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Turkmenistan",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Turkmenistan"
+  },
+  {
+    "text": "Tuvalu",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Tuvalu",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Tuvalu",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Tuvalu"
+  },
+  {
+    "text": "Uganda",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Uganda",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Uganda",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Uganda"
+  },
+  {
+    "text": "Ukraine",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Ukraine",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Ukraine",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Ukraine"
+  },
+  {
+    "text": "the United Arab Emirates",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_the_United_Arab_Emirates",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_the_United_Arab_Emirates",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_the_United_Arab_Emirates"
+  },
+  {
+    "text": "the United Kingdom",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_the_United_Kingdom",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_the_United_Kingdom",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_the_United_Kingdom"
+  },
+  {
+    "text": "the United States of America",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_the_United_States",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_the_United_States",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_the_United_States"
+  },
+  {
+    "text": "Uruguay",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Uruguay",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Uruguay",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Uruguay"
+  },
+  {
+    "text": "Uzbekistan",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Uzbekistan",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Uzbekistan",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Uzbekistan"
+  },
+  {
+    "text": "Vanuatu",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Vanuatu",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Vanuatu",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Vanuatu"
+  },
+  {
+    "text": "Vatican City",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Vatican_City",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Vatican_City",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Vatican_City"
+  },
+  {
+    "text": "Venezuela",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Venezuela",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Venezuela",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Venezuela"
+  },
+  {
+    "text": "Vietnam",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Vietnam",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Vietnam",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Vietnam"
+  },
+  {
+    "text": "Western Sahara",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Western_Sahara",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Western_Sahara"
+  },
+  {
+    "text": "Yemen",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Yemen",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Yemen",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Yemen"
+  },
+  {
+    "text": "Zambia",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Zambia",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Zambia",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Zambia"
+  },
+  {
+    "text": "Zimbabwe",
+    "historyUrl": "https://wikipedia.org/wiki/History_of_Zimbabwe",
+    "geographyUrl": "https://en.wikipedia.org/wiki/Geography_of_Zimbabwe",
+    "politicsUrl": "https://en.wikipedia.org/wiki/Politics_of_Zimbabwe"
+  }
+]
