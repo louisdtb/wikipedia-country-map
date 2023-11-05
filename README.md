@@ -1,13 +1,13 @@
-<div text-align="center">
-  #World history map
+<div align="center">
+  <h1>Wikipedia country map</h1>
 </div>
 
 A simple map for exploring world history.
 
 ## Features
 
-- Country names on hover
-- Click on a country to view its Wikipedia history entry
+- Click on a country to read its history
+- Hover on a country to see its name
 
 ## Changelog
 
