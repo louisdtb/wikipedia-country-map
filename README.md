@@ -11,6 +11,10 @@ A simple map for exploring world history.
 
 ## Changelog
 
+v0.1.1
+
+- Cleaned code
+
 v0.1.0
 
 - First release
