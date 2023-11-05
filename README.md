@@ -13,7 +13,7 @@ A simple map for exploring world history.
 
 v0.2.0
 
-- Topic can now be toggled to switch to geography or politics
+- Topic can now be toggled to geography or politics
 - Updated styles, data, icons and app to implement updates
 
 v0.1.1
