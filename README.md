@@ -11,6 +11,11 @@ A simple map for exploring world history.
 
 ## Changelog
 
+v0.2.0
+
+- Topic can now be toggled to switch to geography or politics
+- Updated styles, data, icons and app to implement updates
+
 v0.1.1
 
 - Cleaned code
