@@ -53,7 +53,7 @@ function App() {
               const url = countryHistory.find((el) =>
                 el.text.includes(countryName)
               )?.url;
-              console.log(countryName, url);
+
               url
                 ? window.open(url, "_blank")
                 : alert(`Wikipedia ${countryName} history page not found.`);
@@ -64,8 +64,6 @@ function App() {
               const countryName = e.propagatedFrom.feature.properties.name;
               setLatLng([lat, lng]);
               setCountry(countryName);
-
-              console.log(e.propagatedFrom.feature.properties);
             },
           }}
         />
