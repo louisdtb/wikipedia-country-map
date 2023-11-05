@@ -131,15 +131,11 @@ table {
 }
 
 /* Base styles */
+
 @font-face {
   font-family: "linux libertine";
   src: url("./static/LinLibertine_R.otf");
 }
-/* @font-face {
-  font-family: "linux libertine";
-  src: url("./static/LinLibertine_I.otf");
-  font-style: "italic";
-} */
 
 body {
   font-family: linux libertine, serif;
@@ -183,4 +179,19 @@ body {
 
 .heading-container {
   text-align: center;
+}
+
+.topic-heading {
+  cursor: pointer;
+  display: inline-flex;
+}
+
+.pencil-icon {
+  width: 20px;
+  height: auto;
+  margin-left: 3px;
+}
+
+.underline {
+  text-decoration: underline;
 }
