@@ -162,6 +162,14 @@ body {
   align-items: center;
 }
 
+@media screen and (max-width: 440px) {
+  .header {
+    border-radius: 4px;
+    padding: 8px 20px;
+    top: 10px;
+  }
+}
+
 .logo {
   width: 60px;
   height: auto;
@@ -187,7 +195,7 @@ body {
 }
 
 .pencil-icon {
-  width: 20px;
+  width: 18px;
   height: auto;
   margin-left: 3px;
 }
