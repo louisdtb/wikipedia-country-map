@@ -131,15 +131,11 @@ table {
 }
 
 /* Base styles */
+
 @font-face {
   font-family: "linux libertine";
   src: url("./static/LinLibertine_R.otf");
 }
-/* @font-face {
-  font-family: "linux libertine";
-  src: url("./static/LinLibertine_I.otf");
-  font-style: "italic";
-} */
 
 body {
   font-family: linux libertine, serif;
@@ -166,6 +162,14 @@ body {
   align-items: center;
 }
 
+@media screen and (max-width: 440px) {
+  .header {
+    border-radius: 4px;
+    padding: 8px 20px;
+    top: 10px;
+  }
+}
+
 .logo {
   width: 60px;
   height: auto;
@@ -183,4 +187,19 @@ body {
 
 .heading-container {
   text-align: center;
+}
+
+.topic-heading {
+  cursor: pointer;
+  display: inline-flex;
+}
+
+.pencil-icon {
+  width: 18px;
+  height: auto;
+  margin-left: 3px;
+}
+
+.underline {
+  text-decoration: underline;
 }

@@ -1,19 +1,16 @@
-import { useState } from "react";
-import {
-  MapContainer,
-  TileLayer,
-  GeoJSON,
-  Popup,
-  Marker,
-  Tooltip,
-} from "react-leaflet";
+import { useState, useEffect } from "react";
+import { MapContainer, TileLayer, GeoJSON, Popup, useMap } from "react-leaflet";
+
 import countriesGeo from "./data/countriesGeo.json";
-import countryHistory from "./data/historyData.json";
+import masterData from "./data/masterData.json";
 import { ReactComponent as WikipediaLogo } from "./static/Wikipedia-logo-v2-en.svg";
+import { ReactComponent as PencilIcon } from "./static/pencil-icon.svg";
+import { useTopic } from "./contexts";
 
 function App() {
   const [latLng, setLatLng] = useState([]);
   const [country, setCountry] = useState("");
+  const { topic, setTopic } = useTopic();
 
   return (
     <div className="page">
@@ -22,7 +19,20 @@ function App() {
           <WikipediaLogo className="logo" />
         </a>
         <div className="heading-container">
-          <h1 className="heading--primary">World history</h1>
+          <h1 className="heading--primary">
+            World{" "}
+            <span
+              className="topic-heading"
+              onClick={() => {
+                topic === "history" && setTopic("geography");
+                topic === "geography" && setTopic("politics");
+                topic === "politics" && setTopic("history");
+              }}
+            >
+              {topic}
+              <PencilIcon className="pencil-icon" />
+            </span>
+          </h1>
           <h2 className="heading--secondary">by country</h2>
         </div>
       </div>
@@ -39,6 +49,7 @@ function App() {
         <TileLayer
           attribution='&copy; <a href="https://carto.com/">carto.com</a> contributors'
           url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png"
+          noWrap="true"
         />
         <GeoJSON
           data={countriesGeo}
@@ -50,13 +61,13 @@ function App() {
           eventHandlers={{
             click: (e) => {
               const countryName = e.propagatedFrom.feature.properties.name;
-              const url = countryHistory.find((el) =>
-                el.text.includes(countryName)
-              )?.url;
+              const url = masterData.find((el) => el.text === countryName)?.[
+                `${topic}Url`
+              ];
 
               url
                 ? window.open(url, "_blank")
-                : alert(`Wikipedia ${countryName} history page not found.`);
+                : alert(`Wikipedia ${countryName} ${topic} page not found.`);
             },
             mouseover: (e) => {
               const lat = e.propagatedFrom.feature.properties.label_y;
@@ -67,7 +78,11 @@ function App() {
             },
           }}
         />
-        {latLng[0] && <Popup position={latLng}>History of {country}</Popup>}
+        {latLng[0] && (
+          <Popup position={latLng}>
+            {topic[0].toUpperCase() + topic.slice(1)} of {country}
+          </Popup>
+        )}
       </MapContainer>
     </div>
   );
