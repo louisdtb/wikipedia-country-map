@@ -1,16 +1,15 @@
-import { useState, useEffect } from "react";
-import { MapContainer, TileLayer, GeoJSON, Popup, useMap } from "react-leaflet";
+import { useState } from "react";
+import { MapContainer, TileLayer, GeoJSON, Popup } from "react-leaflet";
 
 import countriesGeo from "./data/countriesGeo.json";
 import masterData from "./data/masterData.json";
 import { ReactComponent as WikipediaLogo } from "./static/Wikipedia-logo-v2-en.svg";
 import { ReactComponent as PencilIcon } from "./static/pencil-icon.svg";
-import { useTopic } from "./contexts";
 
 function App() {
   const [latLng, setLatLng] = useState([]);
   const [country, setCountry] = useState("");
-  const { topic, setTopic } = useTopic();
+  const [topic, setTopic] = useState("history");
 
   return (
     <div className="page">
